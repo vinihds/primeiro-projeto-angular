@@ -69,7 +69,10 @@
     "ordered-imports": false,
     "quotemark": [
       true,
-      "single"
+      "single",
+	  "avoid-escape",
+	  "avoid-template",
+	  "jsx-single"
     ],
     "trailing-comma": false,
     "no-conflicting-lifecycle": true,
